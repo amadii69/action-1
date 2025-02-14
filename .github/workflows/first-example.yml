@@ -13,4 +13,4 @@ jobs:
       run: ls -la /home/runner/work/action-1/
 
     - name: read files
-      run: pwd
+      run: ls -la /home/
