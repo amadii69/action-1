@@ -13,4 +13,4 @@ jobs:
       run: ls -la /home/runner/work/
 
     - name: read files
-      run: ls -la /home/
+      run: ls -la README.md
